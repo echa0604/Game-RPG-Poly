@@ -3,7 +3,5 @@ public class Character {
         System.out.println("Character Move!!");
     }
 
-    public void ultimateMove(){
-        
-    }
+
 }
